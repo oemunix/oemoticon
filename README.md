@@ -3,16 +3,17 @@ Menambahkan Emoticon Kaskus Pada Blogger/Blogspot
 
 Pertama, pergi ke dashboard, pilih Tata Letak, lalu edit HTML copy ini berikut kode JavaScript ke template HTML Anda, tepat sebelum </ head>:
 
-<!-- <script src='https://raw.githubusercontent.com/oemunix/oemoticon/master/oemoticon_kaskus.js' type='text/javascript'></script> -->
-
+```html
+<script src='https://raw.githubusercontent.com/oemunix/oemoticon/master/oemoticon_kaskus.js' type='text/javascript'></script>
+```
 Kedua, tambah kode javascript dibawah ini sebelum kode </html>
 
-<!--
+```html
 <script type='text/javascript'> 
 addSmileyById('comments-block');
 addSmileyByClass('entry-content');
 </script> 
--->
+```
 
 ket :
 
