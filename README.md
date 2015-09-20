@@ -12,8 +12,11 @@ addSmileyByClass('entry-content');
 </script> 
 
 ket :
-comments-block adalah selector id dari css #comments-block 
+
+comments-block adalah selector id dari css #comments-block
+
 entry-content adalah selector class dari css .entry-content
+
 
 silahkan sesuaikan dengan template blogger sobat !
 
