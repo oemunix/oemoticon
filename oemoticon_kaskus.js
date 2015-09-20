@@ -19,7 +19,7 @@ function addSmileyByClass(str) {
 
 function GmanSmiley(b) {
 var s = b.innerHTML;
-var p = '<img src="https://raw.githubusercontent.com/oemunix/oemoticon/masterk/kaskus/';
+var p = '<img src="https://raw.githubusercontent.com/oemunix/oemoticon/master/kaskus/';
 var u = '.gif\" style=\"border:0; margin:0; padding:0;\"/>';
 
 s = s.replace(/(<[^>]*:(?=(p|d|l)))/ig, "$1 ");
