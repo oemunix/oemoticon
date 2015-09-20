@@ -6,7 +6,7 @@ Pertama, pergi ke dashboard, pilih Tata Letak, lalu edit HTML copy ini berikut k
 ```html
 <script src='https://raw.githubusercontent.com/oemunix/oemoticon/master/oemoticon_kaskus.js' type='text/javascript'></script>
 ```
-Kedua, tambah kode javascript dibawah ini sebelum kode </html>
+Kedua, tambah kode javascript dibawah ini sebelum kode ```</html>```
 
 ```html
 <script type='text/javascript'> 
